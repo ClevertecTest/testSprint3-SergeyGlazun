@@ -1,0 +1,6 @@
+.rating {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 8px;
+}
